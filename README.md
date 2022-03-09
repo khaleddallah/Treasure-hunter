@@ -2,5 +2,5 @@
 2D Arcade Game
 
 # Demo     
-[![Watch the video](https://gitlab.com/khaleddallah/Treasure-hunter/-/raw/master/demo.mp4)](https://gitlab.com/khaleddallah/Treasure-hunter/-/raw/master/demo.mp4)
+[![Watch the video](https://github.com/khaleddallah/Treasure-hunter/blob/main/demo.mp4)](https://github.com/khaleddallah/Treasure-hunter/blob/main/demo.mp4)
 
